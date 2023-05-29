@@ -13,7 +13,7 @@ myDataBase = "mydb"
 # 集合名称
 myCollection = "db1"
 # 数据库通信证,换成你自己的
-tooken = "mongodb+srv://xxxxx"
+tooken = "mongodb+srv://wendyyao:hdDeu0M42uN24EgI@wendy-mongodb.jghk6wa.mongodb.net/?retryWrites=true&w=majority"
 
 
 # 只接受get方法访问
